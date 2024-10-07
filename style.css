@@ -71,7 +71,7 @@ section .title::after{
     bottom: -8px;
     left: 50%;
     font-size: 20px;
-    color: #55883B;
+    color: #004c48;
     padding: 0 5px;
     background: #fff;
     transform: translateX(-50%);
@@ -88,7 +88,7 @@ section .title::after{
 }
 .navbar.sticky{
     padding: 15px 0;
-    background:  #55883B;
+    background:  #004c48;
 }
 .navbar .max-width{
     display: flex;
@@ -120,7 +120,7 @@ section .title::after{
     transition: color 0.3s ease;
 }
 .navbar .menu li a:hover{
-    color: rgb(21, 0, 184);
+    color: #004c48;
 }
 .navbar.sticky .menu li a:hover{
     color: #fff;
