@@ -71,7 +71,7 @@ section .title::after{
     bottom: -8px;
     left: 50%;
     font-size: 20px;
-    color: #3a4664;
+    color: rgb(13, 43, 237);
     padding: 0 5px;
     background: #fff;
     transform: translateX(-50%);
@@ -88,7 +88,7 @@ section .title::after{
 }
 .navbar.sticky{
     padding: 15px 0;
-    background: rgb(30, 5, 252);
+    background:  #3a4664;
 }
 .navbar .max-width{
     display: flex;
